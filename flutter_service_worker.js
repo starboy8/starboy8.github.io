@@ -3,18 +3,22 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "manifest.json": "e5661b7a0078c52c8d1d382d9f52726e",
+  "manifest.json": "19cdd01c45577a05d71d856b6461a598",
+"favicon.ico": "22d911084deaf7083e404fd6e1d6d7bf",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"main.dart.js": "39f0cc33e6c710c8a691628121bc8d21",
-"index.html": "6432d0e03baca29e8c065ff8d0079dab",
-"/": "6432d0e03baca29e8c065ff8d0079dab",
+"main.dart.js": "49b9cc80c82964a04a09e0d3ae5e8f1c",
+"index.html": "3100203e3f598dbe999c8e863760edf0",
+"/": "3100203e3f598dbe999c8e863760edf0",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/NOTICES": "bde9ee889e7cdb2c908965b81d635c52",
+"assets/NOTICES": "b2dddc30bb56e4bf198b85a0a4c590f3",
+"assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "293130157c75eed869a41f5e53c1b313",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+"assets/AssetManifest.json": "234e97ec85aca77de43d67c931e1c382",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"version.json": "116699b19bf8fe4401412429c44f9d7d",
+"version.json": "c699759391dac80735a13eb7340a2613",
+"Scripts/Web3Functions.js": "9609ccd1af07e4a4996766672110180c",
+"U.png": "04aea80e57ad6f357ab822e95c96856b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 

@@ -1,11 +1,11 @@
 {
-    "name": "kevin_du_preez",
-    "short_name": "kevin_du_preez",
+    "name": "frontend_scv",
+    "short_name": "frontend_scv",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Personal Website",
+    "description": "Flutter module which provides an interface for the blockchain and backend modules of the smart contract verifier system",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
